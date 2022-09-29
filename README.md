@@ -9,6 +9,6 @@
 <p>
 
 
-    A software for reduce video volume created with Django, Postgres, Celery, Pytest, Ffmpeg, Redis
+    A software for reduce video file size created with Django, Postgres, Celery, Pytest, Ffmpeg, Redis
  <br>
 </p>
