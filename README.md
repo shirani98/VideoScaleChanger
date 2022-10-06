@@ -47,4 +47,4 @@ The purpose of this project is to create a service using the Django framework th
 ### Thanks to..
 * [Django](https://djangoproject.com)
 
-###### Made with :heart:
+###### Made in about 7 hours with :heart:
