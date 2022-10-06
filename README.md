@@ -59,7 +59,7 @@ The purpose of this project is to create a service using the Django framework th
   </li>
   
   <li>
-    integration test for redis 
+    integration test for redis availability
   </li>
   
 </ul>
