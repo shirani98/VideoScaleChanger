@@ -44,6 +44,27 @@ The purpose of this project is to create a service using the Django framework th
 
 <hr>
 
+<h3>
+⭐️ project tests  
+</h3>
+
+<ul>
+  
+  <li>
+    integration test for ffmpeg service availability 
+  </li>
+
+  <li>
+    test to convert a test video for check the whole process 
+  </li>
+  
+  <li>
+    integration test for redis 
+  </li>
+  
+</ul>
+<hr>
+
 ### Thanks to..
 * [Django](https://djangoproject.com)
 
